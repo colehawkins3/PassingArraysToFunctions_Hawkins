@@ -25,7 +25,7 @@ int main()
 printArray(numbers, numbers_array_size);
 sortArrayAsc(numbers,numbers_array_size);
 sortArrayDsc(numbers, numbers_array_size);
-populateArray(numbers, numbers_array_size);
+populateArray(numbers, 8);
 
  return 0;
 }
